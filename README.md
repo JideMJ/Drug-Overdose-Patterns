@@ -8,3 +8,6 @@ The objective of this project is to find meaning in the current trends of drug o
 3. Opioids (including synthetic opioids such as Fentanyl, and Heroin): - A group of pain-relieving drugs. 
 4. Cocaine - addictive stimulant. 
 5. Cannabis
+
+
+View Plotly graphs on: https://nbviewer.org/github/JideMJ/Drug-Overdose-Patterns/blob/main/Drug%20Overdose%20V1.ipynb
